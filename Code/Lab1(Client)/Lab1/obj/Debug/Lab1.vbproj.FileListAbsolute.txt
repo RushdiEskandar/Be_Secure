@@ -1,0 +1,45 @@
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\bin\Debug\Lab1.xml
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.vbprojResolveAssemblyReference.cache
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.frmPwdChkr.resources
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.Resources.resources
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.vbproj.GenerateResource.Cache
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.xml
+C:\Users\tremo-W\Documents\study\level 3\CSS(Computer System Security)\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.xml
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.vbprojResolveAssemblyReference.cache
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.frmRegistration.resources
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.Resources.resources
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.vbproj.GenerateResource.Cache
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\bin\Debug\Lab1.xml
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.frmLogin.resources
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.frmCaptcha.resources
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.frmServerListener.resources
+C:\Users\tremodesk\Desktop\CSS\Lab1\Lab1\obj\Debug\Lab1.frmMenu.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.xml
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\tremodesk\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\tremodesk\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\tremodesk\Desktop\Lab1\Lab1\bin\Debug\Lab1.xml
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.vbprojResolveAssemblyReference.cache
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.frmServerListener.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.frmMenu.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.frmCaptcha.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.frmLogin.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.frmRegistration.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.Resources.resources
+C:\Users\tremodesk\Desktop\Lab1\Lab1\obj\Debug\Lab1.vbproj.GenerateResource.Cache
+C:\Users\tremodesk\Desktop\Lab1(Client)\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tremodesk\Desktop\Lab1(Client)\Lab1\obj\Debug\Lab1.exe
+C:\Users\tremodesk\Desktop\Lab1(Client)\Lab1\obj\Debug\Lab1.xml
+C:\Users\tremodesk\Desktop\Lab1(Client)\Lab1\obj\Debug\Lab1.pdb
